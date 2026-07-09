@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8AF7EE&width=435&lines=JEEL+PATEL+;Front+End+Developer+)](https://git.io/typing-svg)
 
-<h1 align="center">Hi, I'm Jeel Patel‹</h1>
-<p align="center"><b>Web Developer</b> Â· Designer Â· Building Cool Projects</p>
+<h1 align="center">Hi, I'm Jeel Patel </h1>
+<p align="center"><b>Web Developer</b>  Designer  Building Cool Projects</p>
 
 <p align="center">
   <a href="https://www.instagram.com/jeel_ptl_.2515?igsh=MTcyYmI2Yjl2MjRzaQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>

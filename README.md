@@ -1,4 +1,5 @@
-[Typing SVG] https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AAF7D3&width=435&lines=Jeel+Patel;Frontend+developer+)](https://git.io/typing-svg)#
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8AF7EE&width=435&lines=JEEL+PATEL+;Front+End+Developer+)](https://git.io/typing-svg)
+
 <h1 align="center">Hi, I'm Jeel Patel‹</h1>
 <p align="center"><b>Web Developer</b> Â· Designer Â· Building Cool Projects</p>
 

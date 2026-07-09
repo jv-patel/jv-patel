@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Jeel Patel ðŸ‘‹</h1>
+[Typing SVG] https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AAF7D3&width=435&lines=Jeel+Patel;Frontend+developer+)](https://git.io/typing-svg)#
+<h1 align="center">Hi, I'm Jeel Patel‹</h1>
 <p align="center"><b>Web Developer</b> Â· Designer Â· Building Cool Projects</p>
 
 <p align="center">

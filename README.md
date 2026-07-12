@@ -1,11 +1,3 @@
-<a href="https://github.com/jv-patel/jv-patel">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jv-patel/jv-patel/main/dark.svg">
-    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/jv-patel/jv-patel/main/light.svg">
-  </picture>
-  
-</a>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADECE5&width=435&lines=Jeel+Patel+;Front+End+Developer+)](https://git.io/typing-svg)
 # 💫 About Me:
 👋 Hi, I'm Jeel Patel<br><br> 🎓 3rd Year BCA Student | 💻 Aspiring Front End Developer Developer | 🚀 Open Source Learner<br><br>I'm passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects while continuously improving my skills in frontend, backend, and software development.<br><br> 💻 Tech Stack<br><br>🌐 HTML5, CSS3, JavaScript<br> ⚛️ React (Learning)<br> ☕ Java<br> 🐍 Python<br> 🗄️ SQL<br> 🔧 Git & GitHub<br> 🎨 Responsive Web Design<br><br>🌱 Currently Learning<br><br>* React.js<br>* .NET <br>* REST APIs<br>* Full-Stack Web Development<br>* Data Structures & Algorithms<br><br>🚀 Projects<br><br>* Developer Community Website<br>* E-Healthcare Management System<br>* AI Image Detection System<br>* Java Desktop Applications<br>* Responsive Frontend Projects<br><br>🎯 Goals<br><br>* Build impactful full-stack applications.<br>* Contribute to open-source projects.<br>* Become a professional Software Engineer.<br>* Keep learning and sharing knowledge.<br><br>📫 Connect With Me<br><br>* GitHub: https://github.com/jeelpatel<br><br>⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.<br>

@@ -1,66 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8AF7EE&width=435&lines=JEEL+PATEL+;Front+End+Developer+)](https://git.io/typing-svg)
+# 💫 About Me:
+👋 Hi, I'm Jeel Patel<br><br>🎓 3rd Year BCA Student | 💻 Aspiring Full-Stack Developer | 🚀 Open Source Learner<br><br>I'm passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects while continuously improving my skills in frontend, backend, and software development.<br><br> 💻 Tech Stack<br><br>🌐 HTML5, CSS3, JavaScript<br> ⚛️ React (Learning)<br> ☕ Java<br> 🐍 Python<br> 🗄️ SQL<br> 🔧 Git & GitHub<br> 🎨 Responsive Web Design<br><br>🌱 Currently Learning<br><br>* React.js<br>* .NET <br>* REST APIs<br>* Full-Stack Web Development<br>* Data Structures & Algorithms<br><br>🚀 Projects<br><br>* Developer Community Website<br>* E-Healthcare Management System<br>* AI Image Detection System<br>* Java Desktop Applications<br>* Responsive Frontend Projects<br><br>🎯 Goals<br><br>* Build impactful full-stack applications.<br>* Contribute to open-source projects.<br>* Become a professional Software Engineer.<br>* Keep learning and sharing knowledge.<br><br>📫 Connect With Me<br><br>* GitHub: https://github.com/jeelpatel<br><br>⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.<br>
 
-<h1 align="center">Hi, I'm Jeel Patel </h1>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeel_ptl_.2515) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jeel Patel ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeelpatel0038@gmail.com) 
 
-<p align="center">
-  <a href="https://www.instagram.com/jeel_ptl_.2515?igsh=MTcyYmI2Yjl2MjRzaQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-### About Me
-
-I'm a developer and designer who loves building web apps, tools, and create a projects  from AI and real world ,  e-commerce websites.
-
----
-
-### Tech Stack
-
-**Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Design**
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-
-**Tools**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jv-patel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jv-patel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jv-patel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=jv-patel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Projects
-
-**YouTube Video Downloader**
-A tool to download YouTube videos directly.
-
-
-**Portfolio Website**
-My personal portfolio showcasing my work and skills.
-
-**AI Image Generator (with Prompt)**
-Generates images from text prompts using AI.
-
-**Personal Expenses Tracker**
-A project to track and manage personal expenses.
-**Personal Notebook**
-A digital notebook app for notes and organization.
-
-**E-Commerce Website**
-A fully functional e-commerce web application.
-
-**Jarvis**
-A personal AI assistant project inspired by Iron Man's Jarvis.
-
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
